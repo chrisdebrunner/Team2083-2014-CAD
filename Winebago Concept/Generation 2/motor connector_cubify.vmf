@@ -1,0 +1,17 @@
+Part Extents:
+2.125 <= x <= 3.375
+2.12542 <= y <= 3.37458
+0.0001 <= z <= 2.0001
+1060 output triangles
+1060 input triangles
+0 degenerate sided triangles removed
+0 narrow-gap filling triangles created
+0 wide-gap filling triangles created
+0 triangles reoriented
+0 unmatched triangle sides
+1 distinct shell:
+Shell volume: 1.37557	(num triangles: 1060)
+2.125 <= x <= 3.375
+2.12542 <= y <= 3.37458
+0.0001 <= z <= 2.0001
+C:\Users\Owner\Documents\GitHub\Team2083-2014-CAD\Winebago Concept\Generation 2\motor connector_cubify.stl was GOOD
